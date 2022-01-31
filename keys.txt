@@ -1,0 +1,7 @@
+PLAYER LEFT
+W = UP
+S = DOWN
+
+PLAYER RIGHT
+key UP = UP
+key DOWN = DOWN
